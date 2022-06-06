@@ -5,6 +5,7 @@ Neste projeto foi utilizado o Node Js com as bibliotecas:
 
 - express
 - handlebars
+- body-parser
 - sequelize
 - sqlite3
 - nodemon
