@@ -1,5 +1,5 @@
 # Job Finder
-Site para encontrar e cadastar vagas de emprego para profissionais de T.I 
+Site para encontrar e cadastrar vagas de emprego para profissionais de T.I 
 
 Neste projeto foi utilizado o Node Js com as bibliotecas:
 
