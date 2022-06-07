@@ -19,6 +19,9 @@ Neste projeto foi utilizado o Node Js com as bibliotecas:
 
 4. Acesse a aplicação pela url: *localhost:3000*
 
+# Acesso 
+Caso queira ver o front-end do projeto, sem os dados cadastrados e sem algumas funcionalidades ativas, por conta que o Pages não complica a parte de back-end, (clique aqui) [https://giovane-f16.github.io/job-finder/]
+
 # Preview
 
 ![image](https://user-images.githubusercontent.com/63614241/172390649-b067a433-1fc0-4208-8460-323838c3ce74.png)
