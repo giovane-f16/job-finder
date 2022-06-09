@@ -14,7 +14,7 @@ Neste projeto foi utilizado o Node Js com as bibliotecas:
 # Instalação
 1. Faça o download dos arquivos
 
-2. Na pasta raiz do projeto, abra o terminal pelo VS Code
+2. Na pasta raiz do projeto, abra um terminal.
 
 3. Digite o comando *npm run dev*
 
