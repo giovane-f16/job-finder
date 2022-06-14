@@ -16,7 +16,7 @@ Neste projeto foi utilizado o Node Js com as bibliotecas:
 
 2. Na pasta raiz do projeto, abra um terminal.
 
-3. Digite o comando *npm run dev*
+3. Digite o comando **npm run dev**
 
 4. Acesse a aplicação pela url: *localhost:3000*
 
